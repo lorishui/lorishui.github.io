@@ -6,16 +6,54 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: lori blog
-email: shuiheng_40@163.com
-description: > # this means to ignore newlines until "baseurl:"
-    记录一些技术笔记，做一些积累
+title: Lori
+brief-intro: Game Server Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lorishui.github.io" # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+#twitter_username: gaohaoyang126
+#facebook_username: gaohaoyang.water
 github_username:  lorishui
-host: 192.168.0.223
+email: shuiheng_40@163.com
+weibo_username: shuiheng_40@163.com
+zhihu_username: shui-yifeng-yun
+
+description_footer: 游戏后台的成长之路
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+duoshuo_shortname: #hygblog
+disqus_shortname: lorishui
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: 009b3073e523a5af078856d38afb34d8
+google_analytics_id: UA-72449510-4 # google 分析追踪id
+
 # Build settings
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+host: 192.168.0.223
+
+# paginate
+gems: [jekyll-paginate]
 paginate: 5
-paginate_path: "blog/page:num"
