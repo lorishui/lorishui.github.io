@@ -10,7 +10,7 @@ title: lori blog
 email: shuiheng_40@163.com
 description: > # this means to ignore newlines until "baseurl:"
     记录一些技术笔记，做一些积累
-baseurl: "lorishui.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lorishui.github.io" # the base hostname & protocol for your site
 github_username:  lorishui
 host: 192.168.0.223
