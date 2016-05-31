@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "linux下使用tar加密解密文件夹"
-date:   2016-05-31 13:28:46
+date:   2016-05-30 13:37:51
 categories: linux
 tags: linux tar openssl
 ---
