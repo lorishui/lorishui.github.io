@@ -35,6 +35,7 @@ duoshuo_shortname: lorishui
 # xxxxx字符串
 baidu_tongji_id: 009b3073e523a5af078856d38afb34d8
 google_analytics_id: UA-78478510-1 # google 分析追踪id
+google_analytics_4: G-C8DEDD39DE # google 分析追踪id
 
 # Build settings
 markdown: kramdown
