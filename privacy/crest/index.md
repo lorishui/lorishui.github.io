@@ -8,7 +8,7 @@ description: Privacy Policy for Crest, an iOS app that uses Apple Health data to
 Crest helps you understand your daily energy and sleep rhythm using Apple Health data that stays on your device.
 
 - **Effective Date:** May 21, 2026
-- **Last Updated:** May 21, 2026
+- **Last Updated:** May 25, 2026
 - **App:** Crest for iOS
 
 > **Crest does not sell your data, does not use your health data for advertising or tracking, and does not upload your Apple Health data to developer-controlled servers.**
@@ -21,7 +21,6 @@ With your permission, Crest may read the following data from Apple Health:
 
 - **Sleep Analysis**, including sleep duration and available sleep stages.
 - **Heart Rate Variability (HRV)**, when available.
-- **Resting Heart Rate**, when available.
 - **Step Count**, used only as supporting context.
 
 Crest may also store your in-app subjective check-ins, such as how you felt after waking up.
@@ -90,7 +89,6 @@ Crest 使用 Apple Health 数据帮助你理解每日能量和睡眠节奏。健
 
 - **睡眠分析**：包括睡眠时长和可用的睡眠分期。
 - **HRV 心率变异性**：如 Apple Health 中有可用数据。
-- **静息心率**：如 Apple Health 中有可用数据。
 - **步数**：仅作为状态解释的辅助参考。
 
 Crest 也会在本机保存你在 App 内记录的主观状态，例如醒来后的感觉。
