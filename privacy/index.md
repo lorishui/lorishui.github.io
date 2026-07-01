@@ -8,3 +8,4 @@ permalink: /privacy/
 
 - [Crest](/privacy/crest/) — iOS energy & sleep insights app
 - [Exif Privacy](/privacy/exif-privacy/) — iOS photo metadata privacy tool
+- [HennaTrace](/privacy/hennatrace/) — iOS henna tracing and design import app
